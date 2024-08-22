@@ -6,7 +6,7 @@ import sqlite3
 from contextlib import contextmanager
 from datetime import datetime
 
-API_TOKEN = '7167037752:AAFxCLPZi_qCyyIafYkZq4c4AtOPD6YBM9U'
+API_TOKEN = 'TOKEN'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
